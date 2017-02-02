@@ -27,5 +27,7 @@
 
 - (IBAction)buttonTapped:(id)sender {
     NSLog(@"hi");
+    NSLog(@"hi");
+
 }
 @end
